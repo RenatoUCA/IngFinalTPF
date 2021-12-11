@@ -1,0 +1,7 @@
+{
+  "name": "VHTrainingHero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
